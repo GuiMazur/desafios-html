@@ -1,0 +1,52 @@
+@font-face {
+    font-family: normal;
+    src: url(AloneintheDark.ttf);
+}
+
+body {
+    background-color: white;
+}
+
+fieldset{
+    background-color: rgb(253, 247, 213);
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+span{
+    color: black;
+    margin-left: 335px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    font-family: normal;
+    color: black;
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 100;
+    font-family: normal;
+    color:black;
+}
+
+hr{
+    background-color: black;
+    border: none;
+    height: 1px;
+}
+
+.linhas{
+    margin-bottom: 15px;
+}
+
+br{
+    padding-bottom: 50px;
+}
