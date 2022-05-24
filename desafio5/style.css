@@ -1,0 +1,39 @@
+body{
+    background-image: url("1kilo.png");
+    color: black;
+}
+
+fieldset{
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    margin: auto;
+    width: 600px;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+blockquote{
+    background-color: rgba(0, 0, 0, 0.13);
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    width: 400px;
+}
+
+a{
+    margin: 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#umkilo{
+    width: 75px;
+}
