@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(65, 65, 65);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+fieldset{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border-radius: 14px;
+}
+
+ol{
+    color:black;
+    font-weight:900;
+    font-size: 17px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+}
+
+label{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: normal;
+    color:black;
+}
+
+hr{
+    background-color: black;
+    border: none;
+    height: 1px;
+}
+
+input[type=submit]{
+    cursor:pointer;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0px;
+    border-radius: 18px;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 20px;
+    height: 50px;
+    width: 140px;
+    margin-left: calc(50% - 70px);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
